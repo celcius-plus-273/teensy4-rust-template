@@ -1,0 +1,10 @@
+[package]
+name = "example_driver"
+version = "0.1.0"
+authors = ["celcius-plus-273 <kelvinandreshau@gmail.com>"]
+edition = "2021"
+
+# driver packages can also include their own dependencies!
+# for example:
+# [dependencies]
+# embedded-hal = "0.2"
